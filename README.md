@@ -10,4 +10,4 @@ If you find any bugs, please make a Pull Request or an Issue.
 
 
 ## Live Demo
-[DEMO]()
+[DEMO](https://michaeleniolade.github.io/)
